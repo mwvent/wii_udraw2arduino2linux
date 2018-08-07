@@ -4,10 +4,10 @@ Use the wii udraw tablet with linux via an arduino interface
 
 # Installation
 Wiring to the Arduino as follows
-    Yellow > A5/SCL
-    Green > A4/SDA
-    Blue > GND
-    Brown > 5v
+- Yellow > A5/SCL
+- Green > A4/SDA
+- Blue > GND
+- Brown > 5v
 
 Upload the arduino sketch to your arudino
 
